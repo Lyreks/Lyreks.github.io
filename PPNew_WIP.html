@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>My Stream Animated Panels</title>
+		<meta http-equiv="refresh" content="60">
+		<style>
+			.green {color: #119d24}
+			.red {color: #b20000}
+			@font-face {
+				font-family: 'Bebas Kai';
+				src: url('http://lyreks.github.io/fonts/BebasKai-Regular.otf');
+			}
+			
+			::-webkit-scrollbar { 
+    				display: none; 
+			}
+			
+			@-webkit-keyframes animateLPIContainer {
+				5%, 95%{
+					transform: translateX(1000px);
+				}
+			}
+			
+			@-webkit-keyframes animateRPIContainer {
+				5%, 95%{
+					transform: translateX(-1000px);
+				}
+			}
+			
+			#lpiContainer {
+				opacity: 0.9;
+				font-family: 'Bebas Kai';
+				top: 600px;
+				left: -900px;
+				width: 410px;
+				height: 260px;
+				background-image: url('http://lyreks.github.io/images/lpiBackground.png');
+				position: absolute;
+				overflow: hidden;
+				color: #f9f9f9;
+				-webkit-animation: animateLPIContainer 20s 1s 1 cubic-bezier(.5,0,.5,1);
+			}
+			#lpiHeader {
+				top: 13px;
+				left: 5px;
+				width: 400px;
+				height: 30px;
+				background: #106281;
+				position: relative;
+				overflow: hidden;
+				text-align: center;
+				font-size: 24px;
+			}
+			#lpiWindows {
+				top: 0px;
+				left: 0px;
+				width: 410px;
+				height: 260px;
+				background-image: url('http://lyreks.github.io/images/lpiWindows.png');
+				position: absolute;
+				overflow: hidden;
+			}
+			#lpiContentIB1 {
+				top: 55px;
+				left: 15px;
+				width: 136px;
+				height: 136px;
+				position: relative;
+				overflow: hidden;
+			}
+			#lpiContentIB2 {
+				top: 55px;
+				left: 15px;
+				width: 136px;
+				height: 136px;
+				position: relative;
+				overflow: hidden;
+			}
+			#lpiContentTB1 {
+				top: 57px;
+				left: 170px;
+				width: 226px;
+				height: 132px;
+				position: absolute;
+				overflow: hidden;
+				text-align: left;
+				font-size: 24px;
+			}
+			#lpiContentTB2 {
+				top: 80px;
+				left: 170px;
+				width: 226px;
+				height: 132px;
+				position: absolute;
+				overflow: hidden;
+				text-align: left;
+				font-size: 16px;
+			}
+			#lpiContentTB3 {
+				top: 98px;
+				left: 166px;
+				width: 226px;
+				height: 132px;
+				position: absolute;
+				overflow: hidden;
+				text-align: center;
+				font-size: 54px;
+			}
+			#lpiContentTB4 {
+				top: 157px;
+				left: 166px;
+				width: 226px;
+				height: 132px;
+				position: absolute;
+				overflow: hidden;
+				text-align: center;
+				font-size: 24px;
+			}
+			#lpiContentNB {
+				top: 202px;
+				left: 15px;
+				width: 380px;
+				height: 40px;
+				position: absolute;
+				overflow: hidden;
+				text-align: left;
+				font-size: 36px;
+			}
+			#rpiContainer {
+				opacity: 0.9;
+				font-family: 'Bebas Kai';
+				top: 220px;
+				left: 2410px;
+				width: 410px;
+				height: 260px;
+				background-image: url('http://lyreks.github.io/images/rpiBackground.png');
+				position: absolute;
+				overflow: hidden;
+				color: #f9f9f9;
+				-webkit-animation: animateRPIContainer 20s 1s 1 cubic-bezier(.5,0,.5,1);
+			}
+			#rpiHeader {
+				top: 13px;
+				left: 5px;
+				width: 400px;
+				height: 30px;
+				background: #813510;
+				position: relative;
+				overflow: hidden;
+				text-align: center;
+				font-size: 24px;
+			}
+			#rpiWindows {
+				top: 0px;
+				left: 0px;
+				width: 410px;
+				height: 260px;
+				background-image: url('http://lyreks.github.io/images/rpiWindows.png');
+				position: absolute;
+				overflow: hidden;
+			}
+			
+		</style>
+	</head>
+	<body>
+		<div id="lpiContainer">
+			<div id="lpiHeader">
+				<span>
+					Player Card
+				</span>
+			</div>
+			
+			<div id="lpiWindows">
+				<div id="lpiContentIB">
+				</div>
+				<div id="lpiContentTB1">
+						Main: Braixen<br>
+				</div>
+				<div id="lpiContentTB2">
+						Alt: Chandelure<br>
+				</div>
+				<div id="lpiContentTB3">
+						2000 ELO<br>
+				</div>
+				<div id="lpiContentTB4">
+						<span class="green">99 </span>-
+					    <span class="red">0</span>
+				</div>
+			</div>
+			<div id="lpiContentNB">
+				eM | enny
+			</div>
+		</div>
+		<div id="rpiContainer">
+			<div id="rpiHeader">
+				<span>
+					Player Card
+				</span>
+			</div>
+			
+			<div id="rpiWindows">
+				<div id="lpiContentIB">
+				</div>
+				<div id="lpiContentTB1">
+						Main: Shadow Mewtwo<br>
+				</div>
+				<div id="lpiContentTB2">
+						Alt: Blaziken<br>
+				</div>
+				<div id="lpiContentTB3">
+						2000 ELO<br>
+				</div>
+				<div id="lpiContentTB4">
+						<span class="green">99 </span>-
+					    <span class="red">0</span>
+				</div>
+			</div>
+			<div id="lpiContentNB">
+				eM | Mura
+			</div>
+		</div>
+	</body>
+</html>
