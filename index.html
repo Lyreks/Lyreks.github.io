@@ -7,7 +7,7 @@
 <style type="text/css">
 @font-face {
    font-family:BebasKai;
-   src: url('assets/BebasKai-Regular.ttf');
+   src: url(BebasKai-Regular.ttf);
 }
 
 body {
@@ -76,7 +76,7 @@ a:active {
 	padding: 35px;
 }
 #header ul li a.logo {
-	background: url('assets/ennymura-logo100.png');
+	background: url('images/ennymura-logo100.png');
 	background-repeat: no-repeat;
 	width:100px;
 	height:100px;
@@ -122,6 +122,10 @@ a:active {
 #wrap {
 	width:960px;
 	margin:auto;
+}
+
+#slideshow {
+	height: 340px;
 }
 
 .slide1 {
@@ -199,8 +203,8 @@ a:active {
 }
 
 #sponsors {
-	height:120px;
-	padding-top:340px;
+	position: relative;
+	height:220px;
 	padding-left:40px;
 }
 #sponsors ul {
@@ -233,40 +237,44 @@ a:active {
 }
 
 #updates {
-	height:660px;
-	padding-top:110px;
-	padding-left: 0px;
+	position: relative;
+	height: 600px;
 	font-size: 36px;
 }
-#updates ul.right-videos{
-	float:right;
+#updates ul.right-videos {
+	position: relative;
 	list-style: none;
+	float: right;
+	padding:0px;
+	margin:0px;
 }
 #updates ul.bottom-videos{
 	list-style: none;
-	padding-left:0px;
-	padding-top:380px;
-	position: absolute;
+	padding:0px;
+	position: relative;
 }
 #updates ul.bottom-videos li {
 	float: left;
+	display: inline;
+	padding:0px;
 }
 .featured-video {
-	position:absolute;
-	padding-top: 36px;
+	position:relative;
+	float:left;
+	padding-right:16px;
 }
 
 #footer {
+	position: relative;
 	width:100%;
-	height:150px;
-	margin:auto;
-	margin-left:15px;
 	font-size:16px;
+	padding-top: 5px;
+	padding-bottom:10px;
 }
 #footer ul {
 	list-style:none;
 	margin:0 auto;
-	padding-top:20px;
+	padding-top:15px;
 	width:650px;
 }
 #footer ul:after {
@@ -278,7 +286,7 @@ a:active {
 	float:left;
 }
 #footer ul li a.logo {
-	background: url('assets/ennymura-logo100.png');
+	background: url('images/ennymura-logo100.png');
 	background-repeat: no-repeat;
 	width:100px;
 	height:100px;
@@ -287,7 +295,6 @@ a:active {
 	margin-top:-10px;
 }
 .footer-element {
-	display:block;
 	text-align:center;
 	padding: 35px;
 }
@@ -311,8 +318,6 @@ a:active {
 
 <body>
 <div id="wrap">
-	<div class="long-ad">
-	</div>
 	<div id="social">
 		<ul>
 			<li><a href="https://www.youtube.com/channel/UCy_e0slqziqIY9kW7jjPR-A"><img src="assets/youtube-circle.png"></li></a>
@@ -341,7 +346,7 @@ a:active {
 		<a href="http://www.daveandbusters.com/"><img class="slide4" src="assets/temp-panel4.jpg"></a>
 	</div>
 	<div id="sponsors">
-		<img style="padding-left:40px" src="C:/Users/Lyreks/Desktop/website/images/line800.jpg">
+		<img style="padding-left:40px" src="assets/line800.jpg">
 		<ul>
 			<li><a href="http://oomba.com"><img src="assets/oomba-logo160.png"></li></a>
 			<li><a href="https://www.instagram.com/geekshoeco/"><img src="assets/geekshoeco-logo160.png"></li></a>
@@ -352,18 +357,16 @@ a:active {
 	</div>
 	<div id="updates">
 	Recent Updates<br>
+	<span class="featured-video"><iframe width="640" height="360" src="https://www.youtube.com/embed/J7L0ZnFT6lk" frameborder="0" allowfullscreen></iframe></span>
 	<ul class="right-videos">
-	<li style="padding-bottom: 10px"><iframe width="304" height="171" src="https://www.youtube.com/embed/MLuheSMytjE" frameborder="0" allowfullscreen></iframe></li>
+	<li style="padding-bottom: 9px"><iframe width="304" height="171" src="https://www.youtube.com/embed/MLuheSMytjE" frameborder="0" allowfullscreen></iframe></li>
 	<li><iframe width="304" height="171" src="https://www.youtube.com/embed/gfWZA3PmhGo" frameborder="0" allowfullscreen></iframe></li>
 	</ul>
-	<span class="featured-video"><iframe width="640" height="360" src="https://www.youtube.com/embed/J7L0ZnFT6lk" frameborder="0" allowfullscreen></iframe></span>
 	<ul class="bottom-videos">
 	<li style="padding-right: 24px"><iframe width="304" height="171" src="https://www.youtube.com/embed/wjVIF0Jbc10" frameborder="0" allowfullscreen></iframe></li>
 	<li style="padding-right: 24px"><iframe width="304" height="171" src="https://www.youtube.com/embed/k-BML5r9zMg" frameborder="0" allowfullscreen></iframe></li>
 	<li><iframe width="304" height="171" src="https://www.youtube.com/embed/NVFhMUPKWbw" frameborder="0" allowfullscreen></iframe></li>
 	</ul>
-	</div>
-	<div class="long-ad">
 	</div>
 	<div id="footer">
 	<img style="padding-left:80px" src="assets/line800.jpg">
