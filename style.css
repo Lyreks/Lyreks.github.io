@@ -80,8 +80,14 @@ a:active {
 #header ul li a.logo:hover {
 	outline: 1px solid transparent;
 	-webkit-animation: logo-shrink 60s 0s 1 ease-out;
+	-moz-animation: logo-shrink 60s 0s 1 ease-out;
 }
 @-webkit-keyframes logo-shrink {
+	0.5% {
+		transform: scale(0.9);
+	}
+}
+@-moz-keyframes logo-shrink {
 	0.5% {
 		transform: scale(0.9);
 	}
