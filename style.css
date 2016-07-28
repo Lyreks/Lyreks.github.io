@@ -19,11 +19,13 @@ a:link, a:visited {
 
 a:hover {
     -webkit-animation: colorchange-red 60s 0s 1 cubic-bezier(.5,0,.5,1);
+    -moz-animation: colorchange-red 60s 0s 1 cubic-bezier(.5,0,.5,1);
     text-decoration:none;
 }
 
 a:active {
     -webkit-animation: colorchange-yellow 60s 0s 1 cubic-bezier(.5,0,.5,1);
+    -moz-animation: colorchange-yellow 60s 0s 1 cubic-bezier(.5,0,.5,1);
     text-decoration:none;
 }
 @-webkit-keyframes colorchange-red {
@@ -34,7 +36,23 @@ a:active {
 		color:#9a2d28;
 	}
 }
+@-moz-keyframes colorchange-red {
+	0% {
+		color:#333333;
+	}
+	0.75% {
+		color:#9a2d28;
+	}
+}
 @-webkit-keyframes colorchange-yellow {
+	0% {
+		color:#9a2d28;
+	}
+	0.25% {
+		color:#eab01e;
+	}
+}
+@-moz-keyframes colorchange-yellow {
 	0% {
 		color:#9a2d28;
 	}
@@ -111,8 +129,14 @@ a:active {
 #social li img:hover{
 	outline: 1px solid transparent;
 	-webkit-animation: social-shrink 60s 0s 1 ease-out;
+	-moz-animation: social-shrink 60s 0s 1 ease-out;
 }
 @-webkit-keyframes social-shrink {
+	0.5% {
+		transform: scale(0.8);
+	}
+}
+@-moz-keyframes social-shrink {
 	0.5% {
 		transform: scale(0.8);
 	}
@@ -133,6 +157,7 @@ a:active {
 	visibility: visible;
 	pointer-events: none;
 	-webkit-animation: aniSlide1 30s 1s 10000 cubic-bezier(.5,0,.5,1);
+	-moz-animation: aniSlide1 30s 1s 10000 cubic-bezier(.5,0,.5,1);
 }
 .slide2 {
 	position: absolute;
@@ -140,6 +165,7 @@ a:active {
 	visibility: none;
 	pointer-events: none;
 	-webkit-animation: aniSlide2 30s 1s 10000 cubic-bezier(.5,0,.5,1);
+	-moz-animation: aniSlide2 30s 1s 10000 cubic-bezier(.5,0,.5,1);
 }
 .slide3 {
 	position: absolute;
@@ -147,6 +173,7 @@ a:active {
 	visibility: none;
 	pointer-events: none;
 	-webkit-animation: aniSlide3 30s 1s 10000 cubic-bezier(.5,0,.5,1);
+	-moz-animation: aniSlide3 30s 1s 10000 cubic-bezier(.5,0,.5,1);
 }
 .slide4 {
 	position: absolute;
@@ -154,6 +181,7 @@ a:active {
 	visibility: none;
 	pointer-events: none;
 	-webkit-animation: aniSlide4 30s 1s 10000 cubic-bezier(.5,0,.5,1);
+	-moz-animation: aniSlide4 30s 1s 10000 cubic-bezier(.5,0,.5,1);
 }
 
 @-webkit-keyframes aniSlide1 {
@@ -200,6 +228,50 @@ a:active {
 		pointer-events: all;
 	}
 }
+@-moz-keyframes aniSlide1 {
+	0%,21%,100% {
+		opacity: 1;
+		pointer-events: all;
+	}
+	25%,96% {
+		opacity: 0;
+		pointer-events: none;
+	}
+	96% {
+		opacity: 0;
+		pointer-events: none;
+	}
+}
+@-moz-keyframes aniSlide2 {
+	21%,52% {
+		opacity: 0;
+		pointer-events: none;
+	}
+	25%,48% {
+		opacity: 1;
+		pointer-events: all;
+	}
+}
+@-moz-keyframes aniSlide3 {
+	48%,79% {
+		opacity: 0;
+		pointer-events: none;
+	}
+	52%,75% {
+		opacity: 1;
+		pointer-events: all;
+	}
+}
+@-moz-keyframes aniSlide4 {
+	75%,100% {
+		opacity: 0;
+		pointer-events: none;
+	}
+	79%,96% {
+		opacity: 1;
+		pointer-events: all;
+	}
+}
 
 #sponsors {
 	position: relative;
@@ -222,11 +294,20 @@ a:active {
 }
 #sponsors ul li img:hover {
 	-webkit-animation: fadein 60s 0s 1 cubic-bezier(.5,0,.5,1);
+	-moz-animation: fadein 60s 0s 1 cubic-bezier(.5,0,.5,1);
 }
 #sponsors ul li img:active {
 	opacity:1;
 }
 @-webkit-keyframes fadein {
+	0% {
+		opacity: 0.25;
+	}
+	0.75% {
+		opacity: 1;
+	}
+}
+@-moz-keyframes fadein {
 	0% {
 		opacity: 0.25;
 	}
@@ -310,4 +391,5 @@ a:active {
 .social-footer img:hover {
 	outline: 1px solid transparent;
 	-webkit-animation: social-shrink 60s 0s 1 ease-out;
+	-moz-animation: social-shrink 60s 0s 1 ease-out;
 }
