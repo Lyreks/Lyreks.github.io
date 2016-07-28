@@ -1,0 +1,307 @@
+@font-face {
+   font-family:BebasKai;
+   src: url('C:/Users/Lyreks/Desktop/website/assets/BebasKai-Regular.ttf');
+}
+
+body {
+	margin:0;
+   font-family:BebasKai;
+   font-size:20px;
+   background-color:#ededed;
+   -webkit-user-select: none;
+   color:#333333;
+}
+
+a:link, a:visited {
+    color:#333333;
+    text-decoration:none;
+}
+
+a:hover {
+    -webkit-animation: colorchange-red 60s 0s 1 cubic-bezier(.5,0,.5,1);
+    text-decoration:none;
+}
+
+a:active {
+    -webkit-animation: colorchange-yellow 60s 0s 1 cubic-bezier(.5,0,.5,1);
+    text-decoration:none;
+}
+@-webkit-keyframes colorchange-red {
+	0% {
+		color:#333333;
+	}
+	0.75% {
+		color:#9a2d28;
+	}
+}
+@-webkit-keyframes colorchange-yellow {
+	0% {
+		color:#9a2d28;
+	}
+	0.25% {
+		color:#eab01e;
+	}
+}
+
+#header {
+	width:100%;
+	height:150px;
+	margin:auto;
+	margin-left:15px;
+}
+#header ul {
+	list-style:none;
+	margin:0 auto;
+	padding:0;
+	width:850px;
+}
+#header ul:after {
+	clear:both;
+	display:table;
+	content: "";
+}
+#header li {
+	float:left;
+}
+#header a {
+	display:block;
+	text-align:center;
+	padding: 35px;
+}
+#header ul li a.logo {
+	background: url('C:/Users/Lyreks/Desktop/website/assets/ennymura-logo100.png');
+	background-repeat: no-repeat;
+	width:100px;
+	height:100px;
+	display:block;
+	padding:0;
+	margin-top:-10px;
+}
+#header ul li a.logo:hover {
+	outline: 1px solid transparent;
+	-webkit-animation: logo-shrink 60s 0s 1 ease-out;
+}
+@-webkit-keyframes logo-shrink {
+	0.5% {
+		transform: scale(0.9);
+	}
+}
+
+#social {
+	height:40px;
+	padding-right:15px;
+}
+#social ul {
+	list-style-type:none;
+}
+#social li {
+	float: right;
+}
+#social li img {
+	width:25px;
+	height:25px;
+	padding:1px;
+}
+#social li img:hover{
+	outline: 1px solid transparent;
+	-webkit-animation: social-shrink 60s 0s 1 ease-out;
+}
+@-webkit-keyframes social-shrink {
+	0.5% {
+		transform: scale(0.8);
+	}
+}
+
+#wrap {
+	width:960px;
+	margin:auto;
+}
+
+#slideshow {
+	height: 340px;
+}
+
+.slide1 {
+	position: absolute;
+	opacity: 1;
+	visibility: visible;
+	pointer-events: none;
+	-webkit-animation: aniSlide1 30s 1s 10000 cubic-bezier(.5,0,.5,1);
+}
+.slide2 {
+	position: absolute;
+	opacity: 0;
+	visibility: none;
+	pointer-events: none;
+	-webkit-animation: aniSlide2 30s 1s 10000 cubic-bezier(.5,0,.5,1);
+}
+.slide3 {
+	position: absolute;
+	opacity: 0;
+	visibility: none;
+	pointer-events: none;
+	-webkit-animation: aniSlide3 30s 1s 10000 cubic-bezier(.5,0,.5,1);
+}
+.slide4 {
+	position: absolute;
+	opacity: 0;
+	visibility: none;
+	pointer-events: none;
+	-webkit-animation: aniSlide4 30s 1s 10000 cubic-bezier(.5,0,.5,1);
+}
+
+@-webkit-keyframes aniSlide1 {
+	0%,21%,100% {
+		opacity: 1;
+		pointer-events: all;
+	}
+	25%,96% {
+		opacity: 0;
+		pointer-events: none;
+	}
+	96% {
+		opacity: 0;
+		pointer-events: none;
+	}
+}
+@-webkit-keyframes aniSlide2 {
+	21%,52% {
+		opacity: 0;
+		pointer-events: none;
+	}
+	25%,48% {
+		opacity: 1;
+		pointer-events: all;
+	}
+}
+@-webkit-keyframes aniSlide3 {
+	48%,79% {
+		opacity: 0;
+		pointer-events: none;
+	}
+	52%,75% {
+		opacity: 1;
+		pointer-events: all;
+	}
+}
+@-webkit-keyframes aniSlide4 {
+	75%,100% {
+		opacity: 0;
+		pointer-events: none;
+	}
+	79%,96% {
+		opacity: 1;
+		pointer-events: all;
+	}
+}
+
+#sponsors {
+	position: relative;
+	height:220px;
+	padding-left:40px;
+}
+#sponsors ul {
+	list-style-type: none;
+}
+#sponsors li {
+	float: left;
+}
+#sponsors ul li img {
+	opacity:0.25;
+	width:120px;
+	height:120px;
+	padding-left:40px;
+	padding-right:40px;
+	padding-bottom: 5px;
+}
+#sponsors ul li img:hover {
+	-webkit-animation: fadein 60s 0s 1 cubic-bezier(.5,0,.5,1);
+}
+#sponsors ul li img:active {
+	opacity:1;
+}
+@-webkit-keyframes fadein {
+	0% {
+		opacity: 0.25;
+	}
+	0.75% {
+		opacity: 1;
+	}
+}
+
+#updates {
+	position: relative;
+	height: 600px;
+	font-size: 36px;
+}
+#updates ul.right-videos {
+	position: relative;
+	list-style: none;
+	float: right;
+	padding:0px;
+	margin:0px;
+}
+#updates ul.bottom-videos{
+	list-style: none;
+	padding:0px;
+	position: relative;
+}
+#updates ul.bottom-videos li {
+	float: left;
+	display: inline;
+	padding:0px;
+}
+.featured-video {
+	position:relative;
+	float:left;
+	padding-right:16px;
+}
+
+#footer {
+	position: relative;
+	width:100%;
+	font-size:16px;
+	padding-top: 5px;
+	padding-bottom:10px;
+}
+#footer ul {
+	list-style:none;
+	margin:0 auto;
+	padding-top:15px;
+	width:650px;
+}
+#footer ul:after {
+	clear:both;
+	display:table;
+	content: "";
+}
+#footer li {
+	float:left;
+}
+#footer ul li a.logo {
+	background: url('C:/Users/Lyreks/Desktop/website/assets/ennymura-logo100.png');
+	background-repeat: no-repeat;
+	width:100px;
+	height:100px;
+	display:block;
+	padding:0;
+	margin-top:-10px;
+}
+.footer-element {
+	text-align:center;
+	padding: 35px;
+}
+.social-footer {
+	padding-top:30px;
+	display:block;
+	text-align: center;
+}
+.social-footer img {
+	padding:1px;
+	width:25px;
+	height:25px;
+}
+.social-footer img:hover {
+	outline: 1px solid transparent;
+	-webkit-animation: social-shrink 60s 0s 1 ease-out;
+}
