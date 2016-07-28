@@ -9,6 +9,7 @@ body {
    font-size:20px;
    background-color:#ededed;
    -webkit-user-select: none;
+   -moz-user-select: none;
    color:#333333;
 }
 
@@ -36,20 +37,20 @@ a:active {
 		color:#9a2d28;
 	}
 }
-@-moz-keyframes colorchange-red {
-	0% {
-		color:#333333;
-	}
-	0.75% {
-		color:#9a2d28;
-	}
-}
 @-webkit-keyframes colorchange-yellow {
 	0% {
 		color:#9a2d28;
 	}
 	0.25% {
 		color:#eab01e;
+	}
+}
+@-moz-keyframes colorchange-red {
+	0% {
+		color:#333333;
+	}
+	0.75% {
+		color:#9a2d28;
 	}
 }
 @-moz-keyframes colorchange-yellow {
