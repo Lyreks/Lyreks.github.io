@@ -1,6 +1,6 @@
 @font-face {
    font-family:BebasKai;
-   src: url('C:/Users/Lyreks/Desktop/website/assets/BebasKai-Regular.ttf');
+   src: url('assets/BebasKai-Regular.ttf');
 }
 
 body {
@@ -69,7 +69,7 @@ a:active {
 	padding: 35px;
 }
 #header ul li a.logo {
-	background: url('C:/Users/Lyreks/Desktop/website/assets/ennymura-logo100.png');
+	background: url('assets/ennymura-logo100.png');
 	background-repeat: no-repeat;
 	width:100px;
 	height:100px;
@@ -279,7 +279,7 @@ a:active {
 	float:left;
 }
 #footer ul li a.logo {
-	background: url('C:/Users/Lyreks/Desktop/website/assets/ennymura-logo100.png');
+	background: url('assets/ennymura-logo100.png');
 	background-repeat: no-repeat;
 	width:100px;
 	height:100px;
