@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<style type="text/css">
+
+:root {
+	--scale: 600px; /* Change this value to alter scale */
+}
+
+.container {
+	position: relative;
+	top:0px;
+	left:0px;
+	height: var(--scale);
+	width: var(--scale);
+}
+
+#triangleL {
+	position:absolute;
+	top:0px;
+	left:calc(var(--scale)*0.12005277044);
+    width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: calc(var(--scale)*0.477572559) 0 0 calc(var(--scale)*0.519788918);
+	border-color: transparent transparent transparent #9a2d28;
+	transform: skew(26.6deg, 0deg);
+}
+#triangleR {
+	position:absolute;
+	top:0px;
+	left:calc(var(--scale)*0.35883905013);
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 0 0 calc(var(--scale)*0.477572559) calc(var(--scale)*0.519788918);
+	border-color: transparent transparent #9a2d28 transparent;
+	transform: skew(-26.6deg, 0deg);
+}
+
+#triangleB {
+	position: absolute;
+	top:calc(var(--scale)*0.52242744063);
+	left:calc(var(--scale)*0.26385224274);
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: calc(var(--scale)*0.47493403693) calc(var(--scale)*0.23746701847) 0 calc(var(--scale)*0.23746701847);
+	border-color: #eab01e transparent transparent transparent;
+}
+
+</style>
+</head>
+<body>
+	<div class="container">
+		<div id="triangleL"></div>
+		<div id="triangleR"></div>
+		<div id="triangleB"></div>
+	</div>
+</body>
+</html>
