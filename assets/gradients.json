@@ -1,0 +1,34 @@
+[
+    {
+        "name": "red",
+        "colors": ["#353535", "#ff1000"]
+    },
+    {
+        "name": "orange",
+        "colors": ["#ff6a00", "#353535"]
+    },
+    {
+        "name": "yellow",
+        "colors": ["#353535", "#ffe900"]
+    },
+    {
+        "name": "green",
+        "colors": ["#18ce00", "#353535"]
+    },
+    {
+        "name": "teal",
+        "colors": ["#353535", "#00ffa1"]
+    },
+    {
+        "name": "blue",
+        "colors": ["#003fff", "#353535"]
+    },
+    {
+        "name": "purple",
+        "colors": ["#353535", "#9d00ff"]
+    },
+    {
+        "name": "pink",
+        "colors": ["#ff00bb", "#353535"]
+    }
+]
