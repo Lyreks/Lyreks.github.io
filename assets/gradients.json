@@ -1,34 +1,34 @@
 [
     {
-        "name": "red",
-        "colors": ["#353535", "#ff1000"]
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
     },
     {
-        "name": "orange",
-        "colors": ["#ff6a00", "#353535"]
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
     },
     {
-        "name": "yellow",
-        "colors": ["#353535", "#ffe900"]
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
     },
     {
-        "name": "green",
-        "colors": ["#18ce00", "#353535"]
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
     },
     {
-        "name": "teal",
-        "colors": ["#353535", "#00ffa1"]
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
     },
     {
-        "name": "blue",
-        "colors": ["#003fff", "#353535"]
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
     },
     {
-        "name": "purple",
-        "colors": ["#353535", "#9d00ff"]
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
     },
     {
-        "name": "pink",
-        "colors": ["#ff00bb", "#353535"]
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
     }
 ]
