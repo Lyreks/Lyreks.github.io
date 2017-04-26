@@ -30,5 +30,6981 @@
     {
         "name": "pink-red",
         "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
+    },
+    {
+        "name": "red-orange",
+        "colors": ["#ff00bb", "#ff1000"]
+    },
+    {
+        "name": "orange-yellow",
+        "colors": ["#ff1000", "#ff6a00"]
+    },
+    {
+        "name": "yellow-green",
+        "colors": ["#ff6a00", "#ffe900"]
+    },
+    {
+        "name": "green-teal",
+        "colors": ["#ffe900", "#18ce00"]
+    },
+    {
+        "name": "teal-blue",
+        "colors": ["#18ce00", "#00ffa1"]
+    },
+    {
+        "name": "blue-purple",
+        "colors": ["#00ffa1", "#003fff"]
+    },
+    {
+        "name": "purple-pink",
+        "colors": ["#003fff", "#9d00ff"]
+    },
+    {
+        "name": "pink-red",
+        "colors": ["#9d00ff", "#ff00bb"]
     }
 ]
