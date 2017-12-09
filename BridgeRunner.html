@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+<style type="text/css">
+	body {
+		background: #3d3d3d !important;
+		color: #d3d3d3;
+		font-family: "Georgia", serif;
+	}
+	h2 { padding-left: 0.5em; }
+</style>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<TITLE>BridgeRunner | VogtSkyler_Lab6</TITLE>
+</head>
+
+<body>
+
+<div class="container-fluid">
+	<div class="col-lg-8">
+		<h1>BridgeRunner</h1>
+		<p>Made by Skyler Vogt for CSE3541 (Huamin Wang)</p>
+	</div>
+	<div class="col-lg-4"></div>
+	<div class="col-lg-8"></div>
+</div>
+
+<hr />
+
+<h2>Objective</h2>
+
+<div class="row">
+	<div class="col-lg-4">
+		<p style="padding: 2em">
+			BridgeRunner is a simple Unity game of the endless runner variety in which the player tries to achieve the highest score possible without hitting any obstacles.  For added difficulty, the speed of the game will increase every so often.
+		</p>
+	</div>
+	<div class="col-lg-8">
+		<iframe width="640" height="360" src="https://www.youtube.com/embed/i4fFkyAVj5o" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-lg-4">
+		<p style="padding: 2em">
+			The player navigates using the keys <b>A</b> or <b>Left Arrow</b> to move left and <b>D</b> or <b>Right Arrow</b> to move right, earning points by maneuvering obstacles successfully.  During the game, the score is displayed in the top-center of the screen for those curious eyes to wander.
+		</p>
+	</div>
+	<div class="col-lg-8">
+		<video alt="https://gyazo.com/760adbd5757d2bcda246edb8f1acf82d" width="640" autoplay muted loop playsinline><source src="https://i.gyazo.com/760adbd5757d2bcda246edb8f1acf82d.mp4" type="video/mp4" /></video>
+	</div>
+</div>
+
+<hr />
+
+<h2>Collision</h2>
+
+<div class="row">
+	<div class="col-lg-4">
+		<p style="padding: 2em">
+			The crates have standard box collider components for consistent collision.  These are tagged as enemies to ensure they are the only game objects that can end the game with collision.
+		</p>
+	</div>
+	<div class="col-lg-8">
+		<img src="https://i.gyazo.com/41a7126355419010643823f04b1c5ca5.png" alt="https://gyazo.com/41a7126355419010643823f04b1c5ca5" width="640"/>
+	</div>
+</div>
+<div class="row">
+	<div class="col-lg-4">
+		<p style="padding: 2em">
+			Each obstacle has a plane trigger that increments the score on passthrough.  These are tagged as checkpoints to ensure they are the only game objects that can increment the score.
+		</p>
+	</div>
+	<div class="col-lg-8">
+		<img src="https://i.gyazo.com/56c64bcdb11c12953034ad7ddc4a2364.png" alt="https://gyazo.com/56c64bcdb11c12953034ad7ddc4a2364" width="640"/>
+	</div> 
+</div>
+
+<hr />
+
+<h2>Continuous Gameplay</h2>
+
+<div class="row">
+	<div class="col-lg-4">
+		<p style="padding: 2em">
+			As the genre suggests, the game will not end until the player hits an obstacle.  The game has a script named TileManager that will continuously load random prefabs every time the player moves about 15 units (the length of the prefabs).  These prefabs consist of a bridge, and multiple layouts of crates and checkpoints.  I have to credit <a href="https://www.youtube.com/channel/UCtQPCnbIB7SP_gM1Xtv8bDQ">N3K EN</a> for his tutorial on this method of recurring random generation because it works splendidly.
+		</p>
+	</div>
+	<div class="col-lg-8">
+		<video alt="https://gyazo.com/741539d8f019ebe2c0721d8eaf24ff27" width="640" autoplay muted loop playsinline><source src="https://i.gyazo.com/741539d8f019ebe2c0721d8eaf24ff27.mp4" type="video/mp4" /></video>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-lg-4">
+		<p style="padding: 2em">
+			In order to avoid memory issues, the prefabs are destroyed shortly after they're out of the player's view.  This allows the game to truly go on endlessly.
+		</p>
+	</div>
+	<div class="col-lg-8">
+		<video alt="https://gyazo.com/d918a5637669f902e6592ca17a0aeea8" width="640" autoplay muted loop playsinline><source src="https://i.gyazo.com/d918a5637669f902e6592ca17a0aeea8.mp4" type="video/mp4" /></video>
+	</div>
+	 
+</div>
+
+<hr />
+
+<h2>End Screen</h2>
+
+<div class="row">
+	<div class="col-lg-4">
+		<p style="padding: 2em">
+			Once the game is over, the player's score will be displayed and he or she will be prompted with options to retry or exit.  Pressing the retry button will reload the scene, allowing the player to try again.  Pressing the exit button will quit the application.
+		</p>
+	</div>
+	<div class="col-lg-8">
+		<img src="https://i.gyazo.com/f1f7282ee35123fdb0c1aabf51c4c932.png" alt="https://gyazo.com/f1f7282ee35123fdb0c1aabf51c4c932" width="640"/>
+	</div>
+</div>
+<div class="row">
+	<div class="col-lg-4"></div>
+	<div class="col-lg-8">
+		<video alt="https://gyazo.com/aa98481e9dced10038111d3d3b92f3c9" width="640" autoplay muted loop playsinline><source src="https://i.gyazo.com/aa98481e9dced10038111d3d3b92f3c9.mp4" type="video/mp4" /></video>
+	</div>
+</div>
+
+<hr />
+
+<h2>Audio</h2>
+
+<div class="row">
+	<div class="col-lg-4">
+		<p style="padding: 2em">
+			Using a custom AudioManager script made implementing sound effects and background music very simple.  Thank you, <a href="https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA">Brackeys</a>, for the concise tutorial on how to add these.  Utilizing methods from this script, I used a random call similar to the one in the TileManager to make different crash sounds play upon each death.
+		</p>
+	</div>
+	<div class="col-lg-8">
+		<img src="https://i.gyazo.com/f8716027b8f4fc5f5cb9a60b3d65fe27.png" alt="https://gyazo.com/f8716027b8f4fc5f5cb9a60b3d65fe27" width="640"/>
+	</div>
+</div>
+
+<hr />
+
+<h2>Resources</h2>
+
+<div class="row">
+	<div class="col-lg-12">
+		<p style="padding: 2em">
+			I used a fair amount of free assets from the Unity Asset Store and YouTube.<br>
+			I will list them here:
+			<ul>
+				<li><a href="https://www.assetstore.unity3d.com/en/#!/content/79870">Main Character Prefab</a></li>
+				<li><a href="https://www.assetstore.unity3d.com/en/#!/content/46974">Bridge Model</a></li>
+				<li><a href="https://www.assetstore.unity3d.com/en/#!/content/31462">Crate Model</a></li>
+				<li><a href="https://www.assetstore.unity3d.com/en/#!/content/34938">Rain Asset</a></li>
+				<li><a href="https://www.assetstore.unity3d.com/en/#!/content/79066">Skybox Material</a></li>
+				<li><a href="https://www.youtube.com/watch?v=rtvt9WLvWO0">Crash Sound Effects</a></li>
+				<li><a href="https://www.youtube.com/watch?v=BuU9FQWcxNA">Ominous Piano Music</a></li>
+				<li><a href="https://www.youtube.com/watch?v=g-_JmN2rUNM">Speed Increase Boom</a></li>
+			</ul>
+		</p>
+	</div>
+</div>
+
+<hr />
+
+</body>
+
+</html>
